@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  delivery_at: 2024-11-13 21:10:39
+  address: MyString
+  status: MyString
+  sale: one
+  delivery: one
+
+two:
+  delivery_at: 2024-11-13 21:10:39
+  address: MyString
+  status: MyString
+  sale: two
+  delivery: two
